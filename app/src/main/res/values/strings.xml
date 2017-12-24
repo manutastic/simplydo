@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SimplyDo</string>
+    <string name="task_title_hint">Enter a title for the task.</string>
+    <string name="task_title_label">Title</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_solved_label">Done</string>
+    <string name="date_picker_title">Due date:</string>
+    <string name="new_task">New Task</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$s task</item>
+        <item quantity="other">%1$s tasks</item>
+    </plurals>
+    <string name="delete_task">Delete Task</string>
+    <string name="empty_list">Your list is empty! Click the + icon to add a new task.</string>
+    <string name="add_contact_text">Add A Contact</string>
+    <string name="share_button_text">Share...</string>
+    <string name="share_text">%1$s! The task was created on %2$s. %3$s, and %4$s</string>
+    <string name="share_text_completed">The task is completed</string>
+    <string name="share_text_uncompleted">The task is not completed</string>
+    <string name="share_text_contact">%s is added as a contact.</string>
+    <string name="share_text_no_contact">there is no contact.</string>
+    <string name="share_text_subject">Task Status Report</string>
+    <string name="share_send">Send task via</string>
+</resources>
